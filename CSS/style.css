@@ -1,0 +1,54 @@
+header{
+    position: fixed;
+    background-color: aqua;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 100px;
+    width: 100vw;
+}
+
+.links-container{
+    display: flex;
+    gap: 16px;
+    justify-content: flex-end;
+}
+
+a{
+    color: #000000;
+}
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container{
+    background-color: cornflowerblue;
+}
+
+.fpoo-container{
+    background-color: darkgoldenrod;
+}
+
+.lima-container{
+    background-color: darkgreen;
+}
+
+.hare-container{
+    background-color: darkslategray;
+}
+
+.sop-container{
+    background-color: deeppink;
+}
+
+
+
+footer{
+    background-color: aquamarine;
+    height: 60px;
+}
